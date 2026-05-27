@@ -20,31 +20,19 @@
 
 ## 👩‍💻 About Me
 
-```python
-class KiranSiddique:
-    def __init__(self):
-        self.name         = "Kiran Siddique"
-        self.role         = "BS Computer Science Student & Developer"
-        self.university   = "Fatima Jinnah Women University (FJWU), Rawalpindi"
-        self.gpa          = "3.9 / 4.0  —  97.5%  (Highest in Class Section)"
-        self.location     = "Rawalpindi, Punjab, Pakistan 🇵🇰"
-        self.focus        = ["AI & ML", "Full Stack Development",
-                             "Data Analytics", "Distributed Systems",
-                             "Ethical AI", "Compiler Design"]
-        self.class_rep    = True
-        self.fun_fact     = "I debug with coffee ☕ and curiosity 🔍"
+🎓 I'm **Kiran Siddique**, a BS Computer Science student at **Fatima Jinnah Women University (FJWU), Rawalpindi** — holding the **highest GPA (3.9 / 97.5%)** in my class section and recognised among the top-performing students across the university.
 
-    def currently(self):
-        return {
-            "learning"  : "Compiler Construction, Advanced ML",
-            "building"  : "Pharmacy Sales Analyzer (Power BI + Python ML)",
-            "interning" : "Front-End Dev @ DevelopersHub Corporation",
-            "researching": "Ethical AI Integration in Universities"
-        }
+🔬 My work spans **AI & Machine Learning**, **Full Stack Development**, **Data Analytics**, **Distributed Computing**, and **Ethical AI Research**. I'm passionate about building technology that is both intelligent and responsible.
 
-    def greet(self):
-        return "Welcome to my GitHub! Let's build something impactful. 🚀"
-```
+🏛️ Beyond academics, I serve as **Class Representative**, have published an article on **International Diplomacy**, co-hosted a webinar on **AI Ethics & Cybersecurity**, and actively contribute to community leadership and tech empowerment initiatives.
+
+💡 **Currently:**
+- 🔧 Building → Pharmacy Sales Analyzer (Power BI + Python ML)
+- 🏢 Interning → Front-End Dev @ DevelopersHub Corporation
+- 📚 Learning → Compiler Construction & Advanced ML
+- 🔬 Researching → Ethical AI Integration in Universities
+
+> *"The intersection of intelligence and ethics is where I build."*
 
 ---
 
@@ -65,7 +53,7 @@ class KiranSiddique:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KiranSiddique&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=KiranSiddique&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -74,6 +62,8 @@ class KiranSiddique:
 ## 🛠️ Tech Stack
 
 ### 💬 Programming Languages
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -84,7 +74,11 @@ class KiranSiddique:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+</div>
+
 ### 🤖 AI · ML · Data Science
+<div align="center">
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -93,9 +87,12 @@ class KiranSiddique:
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
 
 ### 🌐 Web & Backend
+<div align="center">
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -103,19 +100,22 @@ class KiranSiddique:
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
 
 ### ☁️ DevOps · Cloud · Tools
+<div align="center">
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Dask](https://img.shields.io/badge/Dask-FC6E00?style=for-the-badge&logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
 
 ---
 
@@ -123,21 +123,21 @@ class KiranSiddique:
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=KiranSiddique&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&ring_color=A855F7" />
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranSiddique&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiranSiddique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranSiddique&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=KiranSiddique&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=KiranSiddique&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=KiranSiddique&theme=react-dark&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7&hide_border=true&custom_title=Kiran's%20Contribution%20Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KiranSiddique&theme=tokyo-night&hide_border=true&custom_title=Kiran's%20Contribution%20Graph" />
 
 </div>
 
@@ -149,11 +149,11 @@ class KiranSiddique:
 
 | # | Project | What it does | Stack | Demo |
 |---|---------|-------------|-------|------|
-| 🔬 | **EthicAI** | Ethical AI & Cybersecurity awareness platform — built on survey of 107 students | HTML · CSS · JS | [Live ↗](https://kiransiddique.github.io/EthicalAI/) |
-| 📡 | **HDFS Dashboard** | Browser-based Hadoop live dashboard — file ops, replication, MapReduce sim | Node.js · WebHDFS | [Live ↗](https://kiransiddique.github.io/HDFS/) |
-| 🕷️ | **WebCrawlr** | Distributed crawler with TF-IDF ranking, PDF reports, email alerts | Python · Flask · Dask | [Live ↗](https://kiransiddique.github.io/DistributedWebCrawlerPDC/) |
+| 🔬 | **EthicAI** | Ethical AI & Cybersecurity awareness platform — based on survey of 107 students | HTML · CSS · JS | [Live ↗](https://kiransiddique.github.io/EthicalAI/) |
+| 📡 | **HDFS Dashboard** | Browser-based Hadoop live dashboard — no terminal needed | Node.js · WebHDFS | [Live ↗](https://kiransiddique.github.io/HDFS/) |
+| 🕷️ | **WebCrawlr** | Distributed crawler with TF-IDF ranking, PDF reports & email alerts | Python · Flask · Dask | [Live ↗](https://kiransiddique.github.io/DistributedWebCrawlerPDC/) |
 | 🥘 | **PantryPal** | AI food expiry tracker using Claude API — built for Idea-Thon 2025 | JS · Claude API | [Live ↗](https://kiransiddique.github.io/pantrypal/) |
-| #️⃣ | **Hash Visualizer** | Real-time animated hash table — collisions, probing, 3 methods | HTML · CSS · JS | [Live ↗](https://kiransiddique.github.io/project1_visualizer/) |
+| #️⃣ | **Hash Visualizer** | Real-time animated hash table with collision animations | HTML · CSS · JS | [Live ↗](https://kiransiddique.github.io/project1_visualizer/) |
 | 🔐 | **Password Hashing Sim** | Full bcrypt-style hashing pipeline — salt → hash → verify | HTML · CSS · JS | [Live ↗](https://kiransiddique.github.io/-project3_password/) |
 | 🔄 | **Hash Comparator** | Side-by-side comparison of 4 collision methods with bar charts | HTML · CSS · JS | [Live ↗](https://kiransiddique.github.io/project2_comparator/) |
 | 📊 | **Pharmacy Analyzer** | Power BI + SQL + ML dashboard for sales forecasting | Power BI · Python | In Progress |
@@ -164,15 +164,13 @@ class KiranSiddique:
 
 ## 💼 Experience
 
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  🏢  Front-End Dev Intern        DevelopersHub Corporation   Apr 2026 – Present  ║
-║  📣  Social Media & Ambassador   IMUN                        Feb – Mar 2026      ║
-║  🖥️  Computer Lab Instructor      Allied School Morgah         Jul – Oct 2024     ║
-║  🌐  Virtual Network Intern       Windows Server / VMware      Jan – Mar 2025     ║
-║  🎨  Freelance Dev & Designer     Academic & Client Projects   Ongoing            ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
+| Role | Company | Period |
+|------|---------|--------|
+| 🏢 Front-End Dev Intern | DevelopersHub Corporation | Apr 2026 – Present |
+| 📣 Social Media & Campus Ambassador | IMUN | Feb – Mar 2026 |
+| 🖥️ Computer Lab Instructor | Allied School Morgah Campus | Jul – Oct 2024 |
+| 🌐 Virtual Network Intern | Windows Server / VMware | Jan – Mar 2025 |
+| 🎨 Freelance Dev & Designer | Academic & Client Projects | Ongoing |
 
 ---
 
@@ -192,11 +190,11 @@ class KiranSiddique:
 ![ReactNative](https://img.shields.io/badge/Coursera-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![SQL](https://img.shields.io/badge/UC%20Davis-SQL%20for%20Data%20Science-003865?style=flat-square&logo=mysql&logoColor=white)
 ![Algo](https://img.shields.io/badge/Stanford-Algorithms-8C1515?style=flat-square&logo=coursera&logoColor=white)
-![TF](https://img.shields.io/badge/DeepLearning.AI-TensorFlow%20for%20AI-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TF](https://img.shields.io/badge/DeepLearning.AI-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NLP](https://img.shields.io/badge/DeepLearning.AI-NLP%20Specialization-0056D2?style=flat-square&logo=coursera&logoColor=white)
 ![EthicalAI](https://img.shields.io/badge/Coursera-Ethical%20AI-6D28D9?style=flat-square&logo=coursera&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Microsoft-Power%20BI%20Analyst-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DSA](https://img.shields.io/badge/Coursera-Data%20Structures%20%26%20Algorithms-00897B?style=flat-square&logo=coursera&logoColor=white)
+![DSA](https://img.shields.io/badge/Coursera-DSA-00897B?style=flat-square&logo=coursera&logoColor=white)
 
 </div>
 
@@ -213,7 +211,7 @@ class KiranSiddique:
 | 🥇 Top-Ranked Student | University & College Level |
 | 🎤 Best Debater | School & College Competitions |
 | 💻 Coding Competition Winner | College Level |
-| 📋 Event Handling & Community Service Certs | School & College |
+| 📋 Event & Community Service Certs | School & College |
 
 </div>
 
@@ -227,16 +225,20 @@ class KiranSiddique:
 ![STEM](https://img.shields.io/badge/STEM%20Society-Member-blueviolet?style=for-the-badge&logo=flask&logoColor=white)
 ![Debate](https://img.shields.io/badge/Debate%20Society-Member-orange?style=for-the-badge&logo=academia&logoColor=white)
 ![CBS](https://img.shields.io/badge/Character%20Building%20Society-Member-green?style=for-the-badge&logo=handshake&logoColor=white)
-![IMUN](https://img.shields.io/badge/IMUN-Campus%20Ambassador-blue?style=for-the-badge&logo=united-nations&logoColor=white)
+![IMUN](https://img.shields.io/badge/IMUN-Campus%20Ambassador-blue?style=for-the-badge&logo=googlemeet&logoColor=white)
 ![Author](https://img.shields.io/badge/Published-Article%20on%20Int'l%20Diplomacy-red?style=for-the-badge&logo=medium&logoColor=white)
 
 </div>
 
-- 👩‍💼 **Class Representative** — FJWU (2023–Present), faculty–student liaison & academic coordinator
-- 🌍 **IMUN Campus Ambassador** — social media, diplomacy & leadership advocacy  
-- 💬 **Webinar Co-host** — AI Ethics & Cybersecurity Awareness (with SLIF Academy)
-- 📰 **Published Article** — International Diplomacy (IMUN deliverable, 2025)
-- 🎤 **Best Debater** — School & College level competitions
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KiranSiddique/KiranSiddique/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
@@ -254,16 +256,6 @@ class KiranSiddique:
 ---
 
 <div align="center">
-
-### 💭 My Philosophy
-
-> *"The intersection of intelligence and ethics is where I build."*
-
-<br/>
-
-![Snake animation](https://github.com/KiranSiddique/KiranSiddique/blob/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
